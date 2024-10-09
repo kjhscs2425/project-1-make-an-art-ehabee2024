@@ -52,5 +52,5 @@ turtle.forward(60)
 turtle.left(60)
 turtle.forward(100)
 turtle.circle(100)
-turtle.close()
+turtle.exitonclick()
 
