@@ -1,10 +1,10 @@
-Overall Rough Draft Score: 10 / 30
+Overall Rough Draft Score: 13 / 30
 
 * [ 10 / 10 ] Working code
 
-* [ 0 / 1 ] A variable
-* [ 0 / 1 ] A comment next to the variable saying what values it can take
-* [ 0 / 1 ] Changing the variable changes the picture
+* [ 1 / 1 ] A variable
+* [ 1 / 1 ] A comment next to the variable saying what values it can take
+* [ 1 / 1 ] Changing the variable changes the picture
 * [ 0 / 1 ] Another variable
 * [ 0 / 1] A comment next to *that* variable saying what values it can take
 * [ 0 / 1 ] Changing *that* variable changes the picture
